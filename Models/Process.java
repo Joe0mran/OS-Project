@@ -1,3 +1,5 @@
+package models;
+
 public class Process {
     public String id;
     public int arrivalTime;
