@@ -1,5 +1,6 @@
 package utils;
 
+
 public class InputValidator {
 
     public static boolean isValid(String id, int at, int bt, int prio, int q) {
